@@ -1,20 +1,20 @@
 <rss version="2.0"> 
     <channel> 
-        <title>Caolan McMahon</title> 
-        <link>http://www.caolanmcmahon.com</link> 
-        <description>Thoughts etc.</description> 
-        <language>en-gb</language> 
+        <title>Пётр Курышев</title> 
+        <link>http://peter.infosreda.com</link> 
+        <description></description> 
+        <language>ru-ru</language> 
         <pubDate>{{pubdate}}</pubDate> 
  
         <lastBuildDate>{{builddate}}</lastBuildDate> 
-        <managingEditor>editor@caolanmcmahon.com</managingEditor> 
-        <webMaster>webmaster@caolanmcmahon.com</webMaster> 
+        <managingEditor>peterkur@yahoo.com</managingEditor> 
+        <webMaster>peterkur@yahoo.com</webMaster> 
 
         {{#each rows}}
             {{#with doc}}
                 <item> 
                     <title>{{title}}</title> 
-                    <link>http://caolanmcmahon.com/posts/{{slug}}</link> 
+                    <link>http://peter.infosreda.com/posts/{{slug}}</link> 
                     <description><![CDATA[{{{markdown_html}}}]]></description> 
                     <pubDate>{{pubdate}}</pubDate> 
                     <guid>{{guid}}</guid> 

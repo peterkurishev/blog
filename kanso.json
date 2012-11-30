@@ -1,7 +1,7 @@
 {
     "name": "blog",
     "version": "0.0.1",
-    "description": "Blog CouchApp for caolanmcmahon.com",
+    "description": "Blog CouchApp for peter.infosreda.com",
     "load": "lib/app",
     "modules": ["lib"],
     "attachments": ["static", "files"],

@@ -5,22 +5,15 @@
   <h1>{{title}}</h1>
 
   <div class="meta">
-    <span class="by">By</span>
-    <a class="author" href="{{baseURL}}/about">Caolan M<sup>c</sup>Mahon</a>
-    {{#if published}}<span class="date">{{pp_date}}</span>{{else}}<span class="warning">Draft</span>{{/if}}
-    <div class="extra">
-      <a href="#disqus_thread" class="comments">Comments and Reactions</a>
-    </div>
+    {{#if published}}<span class="date">{{pp_date}}</span>{{else}}<span class="warning">Черновик</span>{{/if}}
+    <!--div class="extra">
+      <a href="#disqus_thread" class="comments">0 комментарии и 0 реакций</a>
+    </div-->
   </div>
 
   <div class="main">
+    {{{intro}}}
     {{{markdown_html}}}
-  </div>
-
-  <div id="subscribe">
-      <a class="feed" href="http://feeds.feedburner.com/caolan">Subscribe to this blog</a>
-      or
-      <a class="twitter" href="http://twitter.com/caolan">Follow me on Twitter</a>
   </div>
 
   <div id="disqus_thread"></div>
@@ -33,11 +26,11 @@
       var disqus_developer = 1; // developer mode is on
       (function() {
           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = 'http://caolanmcmahon.disqus.com/embed.js';
+          dsq.src = 'http://peterkur.disqus.com/embed.js';
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
   </script>
 
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=caolanmcmahon">comments powered by Disqus.</a></noscript>
+  <noscript>Включите поддержку JavaScript в вашем браузере для того, чтобы видеть <a href="http://disqus.com/?ref_noscript=peterkur">комментарии, которые предоставлены Disqus.</a></noscript>
 {{/with}}
 </div>

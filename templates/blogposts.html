@@ -1,7 +1,7 @@
 {{{include "navigation.html"}}}
 
 <div id="main">
-  <h1 class="big">Caolan McMahon</h1>
+  <h1 class="big">Хороший, плохой, злой</h1>
 
   <ul class="blogposts">
     {{#each rows}}
@@ -9,13 +9,12 @@
         <li class="{{#if published}}published{{else}}draft{{/if}}">
           <h2><a href="{{baseURL}}/posts/{{slug}}">{{title}}</a></h2>
           <div class="meta">
-            {{#if published}}<span class="date">{{pp_date}}</span>{{else}}<span class="warning">Draft</span>{{/if}}
+            {{#if published}}<span class="date">{{pp_date}}</span>{{else}}<span class="warning">Черновик</span>{{/if}}
             <div class="extra">
-              <a href="{{baseURL}}/posts/{{slug}}#disqus_thread" class="comments">Comments and Reactions</a>
             </div>
           </div>
           {{{intro_html}}}
-          <p><a href="{{baseURL}}/posts/{{slug}}">Read more...</a></p>
+          <p><a href="{{baseURL}}/posts/{{slug}}">Читать далее...</a></p>
         </li>
       {{/with}}
     {{/each}}
