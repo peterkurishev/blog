@@ -1,0 +1,810 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"quest",
+				"questionary_request"
+			],
+			[
+				"unicom",
+				"unicom24"
+			],
+			[
+				"web",
+				"web-01"
+			],
+			[
+				"front",
+				"front-01"
+			],
+			[
+				"rs",
+				"rsync_excludes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/events.js",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/rewrites.js",
+			"settings":
+			{
+				"buffer_size": 1109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/style.css",
+			"settings":
+			{
+				"buffer_size": 8206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/navigation.html",
+			"settings":
+			{
+				"buffer_size": 786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/lists.js",
+			"settings":
+			{
+				"buffer_size": 2534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/cv.html",
+			"settings":
+			{
+				"buffer_size": 12614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/projects.md",
+			"settings":
+			{
+				"buffer_size": 6224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/about.html",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/blogposts.html",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/blogpost.html",
+			"settings":
+			{
+				"buffer_size": 1096,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".kansorc",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git ",
+				"Git: Diff Tool"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Diff Tool"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/petrkurysev/prj/blog/lib/shows.js",
+		"/Users/petrkurysev/prj/blog/lib/utils.js",
+		"/Users/petrkurysev/prj/new_blog.mdown",
+		"/Users/petrkurysev/prj/blog/new-blog.mdown",
+		"/Users/petrkurysev/prj/blog/templates/about.html",
+		"/Users/petrkurysev/prj/test.mdown",
+		"/Users/petrkurysev/prj/blog/kanso.json",
+		"/Users/petrkurysev/prj/blog/templates/feed.xml",
+		"/Users/petrkurysev/prj/blog/templates/cv.html",
+		"/Users/petrkurysev/prj/blog/templates/base.html",
+		"/Users/petrkurysev/prj/blog/README.md",
+		"/Users/petrkurysev/prj/blog/templates/navigation.html",
+		"/Users/petrkurysev/prj/blog/lib/rewrites.js",
+		"/Users/petrkurysev/prj/blog/templates/blogpost.html",
+		"/Users/petrkurysev/prj/blog/static/style.css",
+		"/Users/petrkurysev/prj/blog/lib/views.js",
+		"/Users/petrkurysev/prj/blog/lib/lists.js",
+		"/Users/petrkurysev/prj/blog/templates/blogposts.html",
+		"/Users/petrkurysev/prj/blog/files/jquery.notify.js/examples/index.html",
+		"/Users/petrkurysev/prj/blog/static/favicon.ico",
+		"/Users/petrkurysev/prj/blog/files/erlang.lang",
+		"/Users/petrkurysev/prj/blog/data/async.json",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/reports/pylint.report",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/jstemplate/b-creditcalc/b-compare.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/jstemplate/b-creditcalc/b-compare-agent.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/js/mylibs/UNICOM/creditcalc/b-compare.js",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/js/mylibs/UNICOM/creditcalc/b-credit-calc-form.js",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/prod/css/style.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/creditcalc/compare-agent.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/creditcalc/compare.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/contacts.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/index.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/fabfile.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/requirements-dev.txt",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/index.html.orig",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/local_settings.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/settings.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/private/questionary/emails/qr_change.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/questionary/models.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/products/models.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/crediting/models.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/private/routes.js",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/questionary/views.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/creditcalc/models.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/css/jquery-ui/jquery-ui.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/css/modificators/modificators.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/prod/css/partners.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/prod/css/style.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/css/partners.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/css/style.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/css/blocks/blocks.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/css/jquery-ui/jquery-ui.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/css/modificators/modificators.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/css/partners.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/prod/css/partners.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/questionary/urls.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/css/style.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/media/css/blocks/blocks.css",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/referrals/tests.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/static/build/build.xml",
+		"/Users/petrkurysev/prj/unicom24_tmp/ci.sh",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/nms/management/commands/qr_status_monitor.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/creditcalc/urls.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/creditcalc/views.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/creditcalc/utils.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/site/models.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/nms/models.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/creditcalc/compare.json",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/crediting/views.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/site/features/index.feature",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/common/context_processors.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/private/questionary/utils.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/unicom/site/features/index-steps.py",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/recall_me.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/fio_name_email_promo.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/fio_name_email_message.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/site/fio_name_email.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/private/registration/registration_form.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/private/modals.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/creditcalc/checkout.html",
+		"/Users/petrkurysev/prj/unicom24_tmp/templates/private/questionary/form.html",
+		"/Users/petrkurysev/prj/unicom24/unicom/private/questionary/models.py",
+		"/Users/petrkurysev/prj/unicom24/unicom/private/questionary/utils.py",
+		"/Users/petrkurysev/prj/unicom24/unicom/private/questionary/views.py",
+		"/Users/petrkurysev/prj/unicom24/templates/private/questionary/list.json",
+		"/Users/petrkurysev/prj/unicom24/templates/private/questionary/list.html",
+		"/Users/petrkurysev/prj/unicom24/templates/private/questionary/forms_uploads.html",
+		"/Users/petrkurysev/prj/unicom24/unicom/private/questionary/urls.py",
+		"/Users/petrkurysev/prj/parkobot_svn/parkobot/spots/forms.py",
+		"/home/peter/prj/parkobot_svn/parkobot/static_files/css/header.css",
+		"/home/peter/prj/parkobot_svn/parkobot/parkobot.sublime-project",
+		"/home/peter/prj/parkobot_svn/parkobot/manage.py",
+		"/home/peter/prj/parkobot_svn/parkobot/fabfile.py",
+		"/home/peter/.profile",
+		"/home/peter/prj/bnsearch/bn/utils.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*",
+			"*.js",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.css",
+			"*.js",
+			"*",
+			"*.py",
+			"models.py",
+			"*.py",
+			"*.css",
+			"*.py",
+			"",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<img",
+			"<img src=\"http://peter.infosreda.com/ru/wp-includes/images/smilies/icon_smile.gif\" alt=\":)\" class=\"wp-smiley\">",
+			"<img",
+			"on",
+			"baseURL",
+			"_design",
+			"dashed",
+			"verdana",
+			"mask",
+			"static",
+			"DEBUG",
+			"STATICFILES_FINDERS",
+			"STATIC_ROOT",
+			"staticfiles",
+			"',\n",
+			"SelectedProposals",
+			"LocalStorage",
+			"http://.*unicom24.ru",
+			"unicom24.ru",
+			"credit_amount_format",
+			"Сумма кредита",
+			"руб.",
+			"Дзержинс",
+			"private",
+			"Дзер",
+			"static",
+			"localhost",
+			"BASE_URLS",
+			"CreditParam",
+			"Questionary",
+			"Product",
+			"CreditProduct",
+			"AjaxListView",
+			"swf",
+			".css)",
+			"private.",
+			"private",
+			"static.css",
+			"News",
+			"news",
+			"revis",
+			"creditcalc",
+			"b-compare__products",
+			"b-compare__products__wrapper",
+			"Срок погашения",
+			"revsi",
+			"Оставляя свои",
+			"Оставляя свои персональные и контактные данные на сайте",
+			"bank_send",
+			"Questionary =",
+			"Questionary",
+			"class Quest",
+			".html",
+			"questonary_form",
+			"list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"",
+			".css?020720121140)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/events.js",
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/rewrites.js",
+					"settings":
+					{
+						"buffer_size": 1109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1105,
+								1105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/style.css",
+					"settings":
+					{
+						"buffer_size": 8206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/navigation.html",
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/lists.js",
+					"settings":
+					{
+						"buffer_size": 2534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/cv.html",
+					"settings":
+					{
+						"buffer_size": 12614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12614,
+								12614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/projects.md",
+					"settings":
+					{
+						"buffer_size": 6224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6224,
+								6224
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1190.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/about.html",
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templates/blogposts.html",
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "templates/blogpost.html",
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": ".kansorc",
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 332.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}

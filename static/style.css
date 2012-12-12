@@ -5,13 +5,9 @@ body {
   color: #222222;
   margin: 0 auto;
   padding: 1.618em 2.618em;
-  /*font-family: 'PT Serif', serif;*/
   line-height: 1.618;
-  /*width: 37em;*/
-  /*width: 600px;*/
   width: 580px;
   font-size: 16px;
-  /*background: url(groovepaper.png);*/
 }
 a {
   font-style: italic;
@@ -32,10 +28,6 @@ p {
 #main .blogposts p {
   text-align: justify;
 }
-/*#main .main p:first-child:first-line {
-  font-weight: bold;
-  text-shadow: 0 1px 0 white;
-}*/
 h1, h2, h3, h4 {
   font-family: 'Lucida Console', 'Verdana';
   line-height: 2.618;
@@ -56,11 +48,7 @@ h1 {
   letter-spacing: -2px;
   color: #000;
   position: relative;
-/*  -webkit-mask-image: url(groovepaper_mask.png);
-  -o-mask-image: url(groovepaper_mask.png);
-  -moz-mask-image: url(groovepaper_mask.png);
-  mask-image: url(groovepaper_mask.png);
-*/  text-shadow: 0 1px 0 white;
+  text-shadow: 0 1px 0 white;
 }
 /* for variable word sizes in headlines */
 h1 .small {
@@ -75,11 +63,7 @@ h1.big {
   letter-spacing: -2px;
   color: #000;
   position: relative;
-/*  -webkit-mask-image: url(groovepaper_mask.png);
-  -o-mask-image: url(groovepaper_mask.png);
-  -moz-mask-image: url(groovepaper_mask.png);
-  mask-image: url(groovepaper_mask.png);
-*/  text-shadow: 0 1px 0 white;
+  text-shadow: 0 1px 0 white;
 }
 h2, h3, h4 {
   text-shadow: 0px 1px 0 white;
@@ -97,7 +81,6 @@ h2, h3, h4 {
   font-family: 'Lucida Console', 'Verdana';
 }
 #navigation li.selected {
-  /*background: url(groovepaper_dark.png);*/
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -o-border-radius: 3px;
@@ -126,12 +109,6 @@ h2, h3, h4 {
   font-style: normal;
   color: white;
   text-shadow: 0 -1px 0 black;
-  /*
-  -webkit-mask-image: url(groovepaper_mask.png);
-  -o-mask-image: url(groovepaper_mask.png);
-  -moz-mask-image: url(groovepaper_mask.png);
-  mask-image: url(groovepaper_mask.png);
-  */
 }
 .meta {
   font-family: 'Radley', serif;
@@ -222,7 +199,6 @@ ul.blogposts li .meta .extra {
     zoom: 1;
     clear: left;
 }
-/*.span(@cols) { width: (40 * @cols) + (20 * (@cols - 1)); }*/
 .span1 { width: 40px; display: inline; float: left; margin-left: 20px; }
 .span2 { width: 100px; display: inline; float: left; margin-left: 20px; }
 .span3 { width: 160px; display: inline; float: left; margin-left: 20px; }
@@ -294,8 +270,6 @@ ul.blogposts li .meta .extra {
 .paper {
     padding: 1em 1em 1.618em 1em;
     position: relative;  
-    /*background-color: #fff;  */
-    background: url(groovepaper.png);
     -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.3), inset 0 0 50px rgba(100, 100, 100, 0.025);  
     -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.3), inset 0 0 50px rgba(100, 100, 100, 0.025);  
     -o-box-shadow: 0 0 4px rgba(0, 0, 0, 0.3), inset 0 0 50px rgba(100, 100, 100, 0.025);  

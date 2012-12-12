@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html> 
   <head> 
-
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
-
-    <title>{{title}}</title> 
-
+    <title>{{title}}</title>
     <link rel="alternate" type="application/rss+xml" title="Пётр Курышев" href="http://feeds.feedburner.com/peterkur">
     <link rel="stylesheet" type="text/css" href="{{baseURL}}/static/style.css" /> 
-
   </head> 
   <body> 
 
@@ -21,16 +17,18 @@
     <script type="text/javascript" src="{{baseURL}}/modules.js"></script>
     <script type="text/javascript" src="{{baseURL}}/duality.js"></script>
 
-    <script type="text/javascript"> 
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script> 
+    <script type="text/javascript">
 
-    <script type="text/javascript"> 
-        try{
-            var pageTracker = _gat._getTracker("UA-7567948-1");
-            pageTracker._trackPageview();
-        } catch(err) {}
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36777933-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
     </script>
 
   </body>
