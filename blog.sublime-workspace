@@ -44,50 +44,10 @@
 			}
 		},
 		{
-			"file": "lib/rewrites.js",
+			"file": "lib/shows.js",
 			"settings":
 			{
-				"buffer_size": 1109,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "static/style.css",
-			"settings":
-			{
-				"buffer_size": 8206,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "templates/navigation.html",
-			"settings":
-			{
-				"buffer_size": 786,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/lists.js",
-			"settings":
-			{
-				"buffer_size": 2534,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "templates/cv.html",
-			"settings":
-			{
-				"buffer_size": 12614,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "templates/projects.md",
-			"settings":
-			{
-				"buffer_size": 6224,
+				"buffer_size": 762,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,15 +55,7 @@
 			"file": "templates/about.html",
 			"settings":
 			{
-				"buffer_size": 1405,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "templates/blogposts.html",
-			"settings":
-			{
-				"buffer_size": 674,
+				"buffer_size": 1495,
 				"line_ending": "Unix"
 			}
 		},
@@ -116,18 +68,34 @@
 			}
 		},
 		{
-			"file": "templates/blogpost.html",
+			"file": "lib/views.js",
 			"settings":
 			{
-				"buffer_size": 1096,
+				"buffer_size": 1133,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".kansorc",
+			"file": "lib/rewrites.js",
 			"settings":
 			{
-				"buffer_size": 412,
+				"buffer_size": 1219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TODO.org~",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/style.css",
+			"settings":
+			{
+				"buffer_size": 8206,
 				"line_ending": "Unix"
 			}
 		}
@@ -187,7 +155,10 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -200,24 +171,28 @@
 	},
 	"file_history":
 	[
+		"/Users/petrkurysev/prj/blog/static/githubprofile.png",
+		"/Users/petrkurysev/prj/blog/TODO.org",
+		"/Users/petrkurysev/prj/blog/lib/lists.js",
+		"/Users/petrkurysev/prj/blog/templates/navigation.html",
+		"/Users/petrkurysev/prj/blog/templates/cv.html",
+		"/Users/petrkurysev/prj/blog/templates/projects.md",
+		"/Users/petrkurysev/prj/blog/templates/about.html",
+		"/Users/petrkurysev/prj/blog/templates/blogposts.html",
+		"/Users/petrkurysev/prj/blog/templates/base.html",
+		"/Users/petrkurysev/prj/blog/templates/blogpost.html",
+		"/Users/petrkurysev/prj/blog/.kansorc",
 		"/Users/petrkurysev/prj/blog/lib/shows.js",
 		"/Users/petrkurysev/prj/blog/lib/utils.js",
 		"/Users/petrkurysev/prj/new_blog.mdown",
 		"/Users/petrkurysev/prj/blog/new-blog.mdown",
-		"/Users/petrkurysev/prj/blog/templates/about.html",
 		"/Users/petrkurysev/prj/test.mdown",
 		"/Users/petrkurysev/prj/blog/kanso.json",
 		"/Users/petrkurysev/prj/blog/templates/feed.xml",
-		"/Users/petrkurysev/prj/blog/templates/cv.html",
-		"/Users/petrkurysev/prj/blog/templates/base.html",
 		"/Users/petrkurysev/prj/blog/README.md",
-		"/Users/petrkurysev/prj/blog/templates/navigation.html",
 		"/Users/petrkurysev/prj/blog/lib/rewrites.js",
-		"/Users/petrkurysev/prj/blog/templates/blogpost.html",
 		"/Users/petrkurysev/prj/blog/static/style.css",
 		"/Users/petrkurysev/prj/blog/lib/views.js",
-		"/Users/petrkurysev/prj/blog/lib/lists.js",
-		"/Users/petrkurysev/prj/blog/templates/blogposts.html",
 		"/Users/petrkurysev/prj/blog/files/jquery.notify.js/examples/index.html",
 		"/Users/petrkurysev/prj/blog/static/favicon.ico",
 		"/Users/petrkurysev/prj/blog/files/erlang.lang",
@@ -404,12 +379,13 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "lib/events.js",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 1261,
@@ -419,8 +395,8 @@
 						"selection":
 						[
 							[
-								494,
-								494
+								827,
+								827
 							]
 						],
 						"settings":
@@ -437,18 +413,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "lib/rewrites.js",
+					"file": "lib/shows.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1109,
+						"buffer_size": 762,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1105,
-								1105
+								512,
+								512
 							]
 						],
 						"settings":
@@ -465,7 +442,151 @@
 				},
 				{
 					"buffer": 2,
+					"file": "templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1341,
+								1341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/views.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/rewrites.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "TODO.org~",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "static/style.css",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 8206,
@@ -486,258 +607,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "templates/navigation.html",
-					"settings":
-					{
-						"buffer_size": 786,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								430,
-								430
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "lib/lists.js",
-					"settings":
-					{
-						"buffer_size": 2534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								153,
-								153
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "templates/cv.html",
-					"settings":
-					{
-						"buffer_size": 12614,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12614,
-								12614
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2108.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "templates/projects.md",
-					"settings":
-					{
-						"buffer_size": 6224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6224,
-								6224
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1190.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "templates/about.html",
-					"settings":
-					{
-						"buffer_size": 1405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								377,
-								377
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "templates/blogposts.html",
-					"settings":
-					{
-						"buffer_size": 674,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								88,
-								88
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "templates/base.html",
-					"settings":
-					{
-						"buffer_size": 1268,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								340,
-								340
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "templates/blogpost.html",
-					"settings":
-					{
-						"buffer_size": 1096,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								457,
-								457
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": ".kansorc",
-					"settings":
-					{
-						"buffer_size": 412,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								412,
-								412
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 553.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -780,6 +650,7 @@
 	{
 		"height": 332.0
 	},
+	"project": "/Users/petrkurysev/prj/blog/blog.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -801,10 +672,24 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 243.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
